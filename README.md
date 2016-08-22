@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+
+Raphael here, learning about Github...
